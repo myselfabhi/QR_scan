@@ -1,1 +1,1 @@
-# QR_scan edits basics 
+# QR_scan 
